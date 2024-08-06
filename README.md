@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Trieu.;Nice+to+meet+you%2C+guys+!" alt="Typing SVG" />
   </a>
 </div>
-<h3 align="center">A third-year student of IT Faculty at HCMUS.</h3>
+
+- I’m a third-year student of IT Faculty at HCMUS
 
 - I’m currently learning **Flutter for mobile app development.**
 
