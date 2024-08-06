@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Trieu.;Nice+to+meet+you%2C+guys+!" alt="Typing SVG" />
+  </a>
+</div>
+<h3 align="center">A third-year student of IT Faculty at HCMUS.</h3>
+- 🌱 I’m currently learning **Flutter for mobile app development.**
+
+- 📫 How to reach me **dinhquytrieu1010@gmail.com**
 ## 🌐Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dinhquytrieu1010@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dinhquytrieu/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/trieu.quy.3110) 
 
