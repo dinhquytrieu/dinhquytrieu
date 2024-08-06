@@ -4,9 +4,9 @@
   </a>
 </div>
 <h3 align="center">A third-year student of IT Faculty at HCMUS.</h3>
-I’m currently learning **Flutter for mobile app development.**
+- I’m currently learning **Flutter for mobile app development.**
 
-📫 How to reach me **dinhquytrieu1010@gmail.com**
+- How to reach me **dinhquytrieu1010@gmail.com**
 ## 🌐Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dinhquytrieu1010@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinhquytrieu/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/trieu.quy.3110) 
 
