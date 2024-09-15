@@ -4,9 +4,7 @@
   </a>
 </div>
 
-- I’m a third-year student of IT Faculty at HCMUS
-
-- I’m currently learning **Flutter for mobile app development.**
+- I’m a 4th-year student of IT Faculty at HCMUS
 
 - How to reach me **dinhquytrieu1010@gmail.com**
 ## 🌐Connect with me
